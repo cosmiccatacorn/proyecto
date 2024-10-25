@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.util.Random;
-public class BatallaNaval {
+public class Main {
     static char [][] tablero = new char[6][6];
         static int barcosRestantes = 5;
         static Scanner scanner = new Scanner(System.in);
